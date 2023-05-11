@@ -4,9 +4,9 @@
 </p>
 
 <div align='center'>
-  <p align="center">
-		<font size=6 >I'm Baird</font>
-	</p>
+  <div>
+		<font size=6> I'm Baird </font>
+	</div>
   <p align='center'>
     <a href="https://img.gejiba.com/images/f0cf4242e87615dff574806169f9732a.png"><img height="30" src="https://img.gejiba.com/images/39db33ea168bb9b516550c596fed942b.png"></a>&nbsp;&nbsp;
     <a href="mailto:baird0917@163.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
