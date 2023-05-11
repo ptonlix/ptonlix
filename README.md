@@ -58,6 +58,22 @@
 [![e024970f799a47274916ef19dcd22f0f.jpg](https://img.gejiba.com/images/e024970f799a47274916ef19dcd22f0f.jpg)](https://img.gejiba.com/image/E7j5lz)
 
 ## ⚡ Recent Activity
+
 1. 运作源见Source Scope项目 Popularize AI for everyone
 2. 制作和发布海城蜂享导图软件
 3. 搭建AI知识库大模型，研究LongChain
+
+
+## 🎮 More
+
+- 💻 PC/Mac:
+
+  - M1 Pro 16寸 16G+512G
+  - i7-10700 32G RTX2070S 1024SSD Win10 
+
+- 📱 phone/iPhone:
+  - iphone14 pro max
+
+- 📷 Camera:
+  - Cannon EOS 90D
+
