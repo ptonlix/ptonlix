@@ -17,13 +17,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ptonlix) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 ## 👋 About me
 
-* 🎨 Fullstack engineer who loves Go, Python and AI.
+* 🎨 Gopher, Pythonic and AI. 
 
-* 🎁 Open source enthusiast. Thanks to all the open source contributors!
-
-* 🔥 Code for something special.
-
-* 🏢 I'm starting GoGeek, a software services platform, and hoping to make a difference.
+* 🔥 Change the world, even a little bit.
 
 ## 🔧 Technologies & Tools
 
@@ -41,37 +37,38 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=33CC33)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=33CC33)
 
-
-## 📊 Github Stats
-![Ptonlix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptonlix)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptonlix&layout=compact&hide=tcl,html)
-
 ## 🛠️ Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=ssprompt)](https://github.com/ptonlix/ssprompt) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=spokenai)](https://github.com/ptonlix/spokenai) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=MQTTWithTLS)](https://github.com/ptonlix/MQTTWithTLS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=officialaccount-chatgpt)](https://github.com/ptonlix/officialaccount-chatgpt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=target-c)](https://github.com/ptonlix/target-c)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=community-online)](https://github.com/ptonlix/community-online) 
 
 ## 📺 Self-media
 
-[**微信公众号/Wechat Public Account:**](https://mp.weixin.qq.com/s?__biz=MzkxODM4NzM1OQ==&mid=2247483792&idx=1&sn=e96e685efdbb4787624136a22e5f729b&chksm=c1b36e60f6c4e776855fc871097a596285df57842674313e0e6f1e3d39f7ed6c25991545f0e7&token=767939360&lang=zh_CN#rd)
+[**个人微信公众号/Wechat Public Account:**](https://mp.weixin.qq.com/s?__biz=MzkxODM4NzM1OQ==&mid=2247483792&idx=1&sn=e96e685efdbb4787624136a22e5f729b&chksm=c1b36e60f6c4e776855fc871097a596285df57842674313e0e6f1e3d39f7ed6c25991545f0e7&token=767939360&lang=zh_CN#rd)
 > 在科技爆炸的时代，尽绵薄之力，留下一点自己的踪迹  
 
 [![e024970f799a47274916ef19dcd22f0f.jpg](https://img.gejiba.com/images/e024970f799a47274916ef19dcd22f0f.jpg)](https://img.gejiba.com/image/E7j5lz)
 
 ## ⚡ Recent Activity
 
-1. 运作源见Source Scope项目 Popularize AI for everyone
-2. 制作和发布海城蜂享导图软件
-3. 搭建AI知识库大模型，研究LongChain
+1. 构思创作Prompt分发工具--ssprompt,发布第一个版本
+2. 运作源见Source Scope项目 Popularize AI for everyone
+3. 搭建AI知识库大模型，研究LangChain
+4. 制作和发布海城蜂享导图软件
 
+## 📊 Github Stats
+![Ptonlix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptonlix)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptonlix&layout=compact&hide=tcl,html)
 
 ## 🎮 More
 
 - 💻 PC/Mac:
 
-  - M1 Pro 16寸 16G+512G
+  - M2 Pro 14寸 32G+512G
   - i7-10700 32G RTX2070S 1024SSD Win10 
 
 - 📱 phone/iPhone:
