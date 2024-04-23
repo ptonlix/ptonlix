@@ -54,7 +54,7 @@
 
 > 在科技爆炸的时代，尽绵薄之力，留下一点自己的踪迹
 
-<img height=320 src="https://img.gejiba.com/images/704835503601bc77114a060a47f9e010.jpg"/>
+<img height=240 src="https://img.gejiba.com/images/f0cf4242e87615dff574806169f9732a.png"/>
 
 ### 🚀 帝阅 DeepRead - 自研 AI 产品
 
