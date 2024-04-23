@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://img.gejiba.com/images/470bf1cafcdd28ead352f48afb2cc85a.jpg" width=800 style="display: block; margin: 0 auto"/>
 </p>
@@ -15,11 +14,14 @@
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ptonlix) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+
 ## 👋 About me
 
-* 🎨 Gopher, Pythonic and AI. 
+- 💪 Entrepreneurs in the AI era
 
-* 🔥 Change the world, even a little bit.
+- 🎨 Gopher, Pythonic and AI.
+
+- 🔥 Change the world, even a little bit.
 
 ## 🔧 Technologies & Tools
 
@@ -38,28 +40,50 @@
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=33CC33)
 
 ## 🛠️ Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=ssprompt)](https://github.com/ptonlix/ssprompt) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=spokenai)](https://github.com/ptonlix/spokenai) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=LangChain-SearXNG)](https://github.com/ptonlix/LangChain-SearXNG)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=ssprompt)](https://github.com/ptonlix/ssprompt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=spokenai)](https://github.com/ptonlix/spokenai)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=MQTTWithTLS)](https://github.com/ptonlix/MQTTWithTLS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=officialaccount-chatgpt)](https://github.com/ptonlix/officialaccount-chatgpt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=target-c)](https://github.com/ptonlix/target-c)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=community-online)](https://github.com/ptonlix/community-online) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=community-online)](https://github.com/ptonlix/community-online)
 
 ## 📺 Self-media
 
-[**个人微信公众号/Wechat Public Account:**](https://mp.weixin.qq.com/s?__biz=MzkxODM4NzM1OQ==&mid=2247483792&idx=1&sn=e96e685efdbb4787624136a22e5f729b&chksm=c1b36e60f6c4e776855fc871097a596285df57842674313e0e6f1e3d39f7ed6c25991545f0e7&token=767939360&lang=zh_CN#rd)
-> 在科技爆炸的时代，尽绵薄之力，留下一点自己的踪迹  
+### 🌍 个人微信/Wechat
 
-[![e024970f799a47274916ef19dcd22f0f.jpg](https://img.gejiba.com/images/e024970f799a47274916ef19dcd22f0f.jpg)](https://img.gejiba.com/image/E7j5lz)
+> 在科技爆炸的时代，尽绵薄之力，留下一点自己的踪迹
+
+<img height=240 src="https://img.gejiba.com/images/704835503601bc77114a060a47f9e010.jpg"/>
+
+### 帝阅 DeepRead - 自研 AI 产品
+
+> 「帝阅」  
+> 是一款个人专属知识管理与创造的 AI Native 产品  
+> 为用户打造一位专属的侍读助理，帮助提升用户获取知识效率和发挥创造力  
+> 让用户更好地去积累知识、管理知识、运用知识
+
+**产品官网:** https://dread.run
+
+**产品公众号:**
+
+<img height=240 src="https://img.gejiba.com/images/e39feeafe915129f255d29417eb71ec8.png"/>
 
 ## ⚡ Recent Activity
 
-1. 构思创作Prompt分发工具--ssprompt,发布第一个版本
-2. 运作源见Source Scope项目 Popularize AI for everyone
-3. 搭建AI知识库大模型，研究LangChain
-4. 制作和发布海城蜂享导图软件
+- [x] 完成帝阅 DeepRead 产品第一个版本发布 🎉
+- [ ] 帝阅 DeepRead 产品持续迭代 🔁
+  - [x] 支持本地文档总结
+  - [x] 支持 B 站视频和微信群聊
+  - [x] 支持浏览器插件
+  - [ ] 支持 AI 问答和搜索
+  - [ ] 支持 AI 写作
+  - [ ] 支持基于知识库的 AI 考题
+- [x] 搭建 AI 搜索引擎 LangChain-SearXNG 初步框架，完善基本功能
+- [ ] 建立 帝阅开发社区
 
 ## 📊 Github Stats
+
 ![Ptonlix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptonlix)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptonlix&layout=compact&hide=tcl,html)
@@ -68,13 +92,12 @@
 
 - 💻 PC/Mac:
 
-  - M2 Pro 14寸 32G+512G
-  - i7-10700 32G RTX2070S 1024SSD Win10 
+  - M2 Pro 14 寸 32G+512G
+  - i7-10700 32G RTX2070S 1024SSD Win10
 
 - 📱 phone/iPhone:
+
   - iphone14 pro max
 
 - 📷 Camera:
   - Cannon EOS 90D
-  
-
