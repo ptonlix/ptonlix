@@ -54,9 +54,9 @@
 
 > 在科技爆炸的时代，尽绵薄之力，留下一点自己的踪迹
 
-<img height=240 src="https://img.gejiba.com/images/704835503601bc77114a060a47f9e010.jpg"/>
+<img height=320 src="https://img.gejiba.com/images/704835503601bc77114a060a47f9e010.jpg"/>
 
-### 帝阅 DeepRead - 自研 AI 产品
+### 🚀 帝阅 DeepRead - 自研 AI 产品
 
 > 「帝阅」  
 > 是一款个人专属知识管理与创造的 AI Native 产品  
