@@ -29,6 +29,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=6aa6f8)  
+![](https://img.shields.io/badge/AI-LangChain-informational?style=flat&logo=mysql&logoColor=white&color=987600)
 ![](https://img.shields.io/badge/DataBase-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=ff9300)
 ![](https://img.shields.io/badge/DataBase-Redis-informational?style=flat&logo=redis&logoColor=white&color=ff9300)
 ![](https://img.shields.io/badge/MQ-MQTT-informational?style=flat&logo=mqtt&logoColor=white&color=fffb0d)
@@ -39,14 +40,19 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=33CC33)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=33CC33)
 
-## 🛠️ Top Repositories
+## 🌟 ALL IN AI
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=LangChain-Emoji)](https://github.com/ptonlix/LangChain-Emoji)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=LangChain-SearXNG)](https://github.com/ptonlix/LangChain-SearXNG)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=ssprompt)](https://github.com/ptonlix/ssprompt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=spokenai)](https://github.com/ptonlix/spokenai)
+
+## 🛠️ Top Repositories
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=MQTTWithTLS)](https://github.com/ptonlix/MQTTWithTLS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=officialaccount-chatgpt)](https://github.com/ptonlix/officialaccount-chatgpt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=community-online)](https://github.com/ptonlix/community-online)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=PromptHub)](https://github.com/ptonlix/PromptHub)
 
 ## 📺 Self-media
 
@@ -76,11 +82,12 @@
   - [x] 支持本地文档总结
   - [x] 支持 B 站视频和微信群聊
   - [x] 支持浏览器插件
-  - [ ] 支持 AI 问答和搜索
+  - [ ] 支持 AI 问答和搜索 ⏳ 即将发布
   - [ ] 支持 AI 写作
   - [ ] 支持基于知识库的 AI 考题
 - [x] 搭建 AI 搜索引擎 LangChain-SearXNG 初步框架，完善基本功能
-- [ ] 建立 帝阅开发社区
+- [x] 搭建 AI 搜索引擎 LangChain-Emoji 初步框架，完善基本功能
+- [x] 建立 帝阅开发社区
 
 ## 📊 Github Stats
 
