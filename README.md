@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://img.gejiba.com/images/470bf1cafcdd28ead352f48afb2cc85a.jpg" width=800 style="display: block; margin: 0 auto"/>
+  <img src="http://cdn.oyster-iot.cloud/202505290858142.png" width=800 style="display: block; margin: 0 auto"/>
 </p>
 
 <div align='center'>
   <p>
-    <img src="https://img.gejiba.com/images/bbe82b9e5671ea3dd3b3779b0071baae.png">
+    <img src="http://cdn.oyster-iot.cloud/WX20250529-092436@2x.png">
   </p>
 
   <p align='center'>
-    <a href="https://img.gejiba.com/images/f0cf4242e87615dff574806169f9732a.png"><img height="30" src="https://img.gejiba.com/images/39db33ea168bb9b516550c596fed942b.png"></a>&nbsp;&nbsp;
+    <a href="http://cdn.oyster-iot.cloud/202505231802103.png"><img height="30" src="https://th.bing.com/th/id/ODLS.86bf256b-72f0-4ba4-90b6-1d37039a605b?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"></a>&nbsp;&nbsp;
     <a href="mailto:baird0917@163.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
 </div>
@@ -60,20 +60,20 @@
 
 > 在科技爆炸的时代，尽绵薄之力，留下一点自己的踪迹
 
-<img height=240 src="https://img.gejiba.com/images/f0cf4242e87615dff574806169f9732a.png"/>
+<img height=240 src="http://cdn.oyster-iot.cloud/202505231802103.png"/>
 
 ### 🚀 帝阅 DeepRead - 自研 AI 产品
 
-> 「帝阅」  
-> 是一款个人专属知识管理与创造的 AI Native 产品  
-> 为用户打造一位专属的侍读助理，帮助提升用户获取知识效率和发挥创造力  
+> 「帝阅」
+> 是一款个人专属知识管理与创造的 AI Native 产品
+> 为用户打造一位专属的侍读助理，帮助提升用户获取知识效率和发挥创造力
 > 让用户更好地去积累知识、管理知识、运用知识
 
 **产品官网:** https://dread.run
 
 **产品公众号:**
 
-<img height=240 src="https://img.gejiba.com/images/e39feeafe915129f255d29417eb71ec8.png"/>
+<img height=240 src="http://cdn.oyster-iot.cloud/qrcode_for_gh_8c3852985a60_430.jpg"/>
 
 ## ⚡ Recent Activity
 
@@ -99,7 +99,7 @@
 
 - 💻 PC/Mac:
 
-  - M2 Pro 14 寸 32G+512G
+  - M4 Pro 14 寸 24G+512G
   - i7-10700 32G RTX2070S 1024SSD Win10
 
 - 📱 phone/iPhone:
