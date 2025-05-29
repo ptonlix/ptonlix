@@ -45,7 +45,7 @@
 ### 🌟🌟🌟 Latest Research
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop)](https://github.com/ptonlix/gohumanloop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop-examples)](https://github.com/ptonlix/ggohumanloop-examples)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop-examples)](https://github.com/ptonlix/gohumanloop-examples)
 
 ### Past Projects
 
@@ -69,6 +69,16 @@
 
 <img height=240 src="http://cdn.oyster-iot.cloud/202505231802103.png"/>
 
+### 💯 GoHumanLoop
+
+**GoHumanLoop**: A Python library empowering AI agents to dynamically request human input (approval/feedback/conversation) at critical stages. Core features:
+
+- `Human-in-the-loop control`: Lets AI agent systems pause and escalate decisions, enhancing safety and trust.
+- `Multi-channel integration`: Supports Terminal, Email, API, and frameworks like LangGraph/CrewAI (soon).
+- `Flexible workflows`: Combines automated reasoning with human oversight for reliable AI operations.
+
+Ensures responsible AI deployment by bridging autonomous agents and human judgment.
+
 ### 🚀 帝阅 DeepRead - 自研 AI 产品
 
 > 「帝阅」
@@ -84,14 +94,10 @@
 
 ## ⚡ Recent Activity
 
+- [x] 完成 GoHumanLoop 项目测试版本发布 🎉
+- [ ] GoHumanLoop 产品持续迭代 🔁
 - [x] 完成帝阅 DeepRead 产品第一个版本发布 🎉
 - [ ] 帝阅 DeepRead 产品持续迭代 🔁
-  - [x] 支持本地文档总结
-  - [x] 支持 B 站视频和微信群聊
-  - [x] 支持浏览器插件
-  - [ ] 支持 AI 问答和搜索 ⏳ 即将发布
-  - [ ] 支持 AI 写作
-  - [ ] 支持基于知识库的 AI 考题
 - [x] 搭建 AI 搜索引擎 LangChain-SearXNG 初步框架，完善基本功能
 - [x] 搭建 AI 搜索引擎 LangChain-Emoji 初步框架，完善基本功能
 - [x] 建立 帝阅开发社区
