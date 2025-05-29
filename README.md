@@ -4,7 +4,7 @@
 
 <div align='center'>
   <p>
-    <img src="http://cdn.oyster-iot.cloud/WX20250529-092436@2x.png"width=300 style="display: block; margin: 0 auto">
+    <img src="http://cdn.oyster-iot.cloud/WX20250529-092436@2x.png"width=360 style="display: block; margin: 0 auto">
   </p>
 
   <p align='center'>
@@ -41,6 +41,13 @@
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=33CC33)
 
 ## 🌟 ALL IN AI
+
+### 🌟🌟🌟 Latest Research
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop)](https://github.com/ptonlix/gohumanloop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop-examples)](https://github.com/ptonlix/ggohumanloop-examples)
+
+### Past Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=LangChain-Emoji)](https://github.com/ptonlix/LangChain-Emoji)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=LangChain-SearXNG)](https://github.com/ptonlix/LangChain-SearXNG)
