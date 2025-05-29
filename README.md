@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://cdn.oyster-iot.cloud/202505290858142.png" width=600 style="display: block; margin: 0 auto"/>
+  <img src="http://cdn.oyster-iot.cloud/3DF91CB4-0A60-444F-971D-88A58C4EDBFD.png" width=800  style="display: block; margin: 0 auto"/>
 </p>
 
 <div align='center'>
