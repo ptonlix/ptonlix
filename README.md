@@ -46,6 +46,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop)](https://github.com/ptonlix/gohumanloop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop-examples)](https://github.com/ptonlix/gohumanloop-examples)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop-wework)](https://github.com/ptonlix/gohumanloop-wework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop-feishu)](https://github.com/ptonlix/gohumanloop-feishu)
 
 ### Past Projects
 
@@ -95,6 +97,7 @@ Ensures responsible AI deployment by bridging autonomous agents and human judgme
 ## ⚡ Recent Activity
 
 - [x] 完成 GoHumanLoop 项目测试版本发布 🎉
+- [x] 完成 GoHumanLoop 支持企业微信、飞书等审批流接入
 - [ ] GoHumanLoop 产品持续迭代 🔁
 - [x] 完成帝阅 DeepRead 产品第一个版本发布 🎉
 - [ ] 帝阅 DeepRead 产品持续迭代 🔁
