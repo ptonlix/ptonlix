@@ -46,6 +46,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop)](https://github.com/ptonlix/gohumanloop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop-examples)](https://github.com/ptonlix/gohumanloop-examples)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloophub)](https://github.com/ptonlix/gohumanloophub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop-wework)](https://github.com/ptonlix/gohumanloop-wework)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop-feishu)](https://github.com/ptonlix/gohumanloop-feishu)
 
