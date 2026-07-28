@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">BeeWeave creative data flywheel</title>
+  <desc id="desc">An animated terminal diagram connecting collection, creation, distillation, and context reuse.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#d8dee4"/></pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0l10 5-10 5z" fill="#087ea4"/></marker>
+    <marker id="loop-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0l10 5-10 5z" fill="#9a6700"/></marker>
+    <style>
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+      .flow { stroke-dasharray: 8 10; animation: stream 1.8s linear infinite; }
+      .cursor { animation: blink 1.1s steps(2, start) infinite; }
+      @keyframes stream { to { stroke-dashoffset: -36; } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .flow, .cursor { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="430" rx="14" fill="#f6f8fa"/>
+  <rect width="1200" height="430" rx="14" fill="url(#grid)" opacity=".76"/>
+  <rect x="1" y="1" width="1198" height="428" rx="13" fill="none" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="48" rx="13" fill="#ffffff"/>
+  <path d="M1 36h1198" stroke="#ffffff" stroke-width="24"/>
+  <path d="M1 49h1198" stroke="#d0d7de"/>
+  <circle cx="24" cy="25" r="6" fill="#cf222e"/><circle cx="44" cy="25" r="6" fill="#bf8700"/><circle cx="64" cy="25" r="6" fill="#1a7f37"/>
+  <text x="92" y="31" class="mono" font-size="14" fill="#1f2328">beeweave.pipeline</text>
+  <text x="1168" y="31" text-anchor="end" class="mono" font-size="12" fill="#1a7f37">● FLYWHEEL ACTIVE</text>
+
+  <text x="42" y="85" class="mono" font-size="13" fill="#59636e">$ bwe run creative-flywheel --shared-context</text>
+
+  <g class="mono">
+    <rect x="42" y="112" width="210" height="120" rx="9" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="60" y="139" font-size="12" fill="#9a6700">01 / MATERIAL</text>
+    <text x="60" y="174" font-size="20" font-weight="700" fill="#1f2328">COLLECT</text>
+    <text x="60" y="202" font-size="13" fill="#59636e">workbench/inbox/</text>
+
+    <rect x="338" y="112" width="210" height="120" rx="9" fill="#ffffff" stroke="#087ea4" stroke-width="1.5"/>
+    <text x="356" y="139" font-size="12" fill="#9a6700">02 / AGENTS</text>
+    <text x="356" y="174" font-size="20" font-weight="700" fill="#087ea4">CREATE</text>
+    <text x="356" y="202" font-size="13" fill="#59636e">draft · connect · ship</text>
+
+    <rect x="634" y="112" width="210" height="120" rx="9" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="652" y="139" font-size="12" fill="#9a6700">03 / KNOWLEDGE</text>
+    <text x="652" y="174" font-size="20" font-weight="700" fill="#1f2328">DISTILL</text>
+    <text x="652" y="202" font-size="13" fill="#59636e">vault/**/*.md</text>
+
+    <rect x="930" y="112" width="228" height="120" rx="9" fill="#ffffff" stroke="#9a6700" stroke-width="1.5"/>
+    <text x="948" y="139" font-size="12" fill="#9a6700">04 / CONTEXT</text>
+    <text x="948" y="174" font-size="20" font-weight="700" fill="#9a6700">REUSE</text>
+    <text x="948" y="202" font-size="13" fill="#59636e">better next creation</text>
+  </g>
+
+  <g fill="none" stroke="#087ea4" stroke-width="2" marker-end="url(#arrow)">
+    <path d="M252 172h76" class="flow"/>
+    <path d="M548 172h76" class="flow"/>
+    <path d="M844 172h76" class="flow"/>
+  </g>
+
+  <path d="M1044 232v61c0 18-14 32-32 32H188c-18 0-32-14-32-32v-51" fill="none" stroke="#9a6700" stroke-width="2" marker-end="url(#loop-arrow)" class="flow"/>
+  <rect x="407" y="305" width="386" height="40" rx="20" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="600" y="330" text-anchor="middle" class="mono" font-size="13" fill="#9a6700">better context → better material → better creation</text>
+
+  <g class="mono" font-size="12">
+    <text x="42" y="373" fill="#59636e">AGENT TARGETS</text>
+    <text x="164" y="373" fill="#1f2328">Codex · Claude Code · Cursor · Gemini · Kiro · Copilot</text>
+    <text x="42" y="405" fill="#087ea4">$</text>
+    <text x="63" y="405" fill="#1f2328">context compiled; next pass ready</text>
+    <rect x="326" y="391" width="8" height="17" rx="1" fill="#9a6700" class="cursor"/>
+    <text x="1158" y="405" text-anchor="end" fill="#8c959f">COLLECT → CREATE → DISTILL → REUSE</text>
+  </g>
+</svg>

@@ -1,127 +1,135 @@
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img width="100%" alt="Ptonlix Agent Control Plane：Baird 的身份、使命与活跃 AI 项目" src="./assets/hero-light.svg">
+</picture>
+
 <p align="center">
-  <img src="http://cdn.oyster-iot.cloud/3DF91CB4-0A60-444F-971D-88A58C4EDBFD.png" width=800  style="display: block; margin: 0 auto"/>
+  <a href="https://github.com/ptonlix">GitHub</a> ·
+  <a href="https://x.com/Baird_cfd">X / Twitter</a> ·
+  <a href="https://www.zhihu.com/people/baird-66">知乎</a> ·
+  <a href="mailto:baird0917@163.com">Email</a>
 </p>
 
-<div align='center'>
-  <p>
-    <img src="http://cdn.oyster-iot.cloud/WX20250529-092436@2x.png"width=360 style="display: block; margin: 0 auto">
-  </p>
+<p align="center">
+  <strong>让 AI 不止会回答，更能进入真实工作流，与人一起把事情做成。</strong>
+</p>
 
-  <p align='center'>
-    <a href="http://cdn.oyster-iot.cloud/202505231802103.png"><img height="30" src="https://th.bing.com/th/id/ODLS.86bf256b-72f0-4ba4-90b6-1d37039a605b?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"></a>&nbsp;&nbsp;
-    <a href="mailto:baird0917@163.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-  </p>
-</div>
+## `$ whoami`
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ptonlix) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+我是 **Baird / ptonlix**，一名 AI 产品经理、开发者与创业者。
 
-## 👋 About me
+- 构建真正进入工作流、能够与人协作的 AI 产品。
+- 关注 Agent 原生应用、个人知识系统和企业级 AI 协作。
+- 主要使用 Python、Go 和 TypeScript，持续参与开源社区。
 
-- 💪 Entrepreneurs in the AI era
+## `$ ps --featured`
 
-- 🎨 Gopher, Pythonic and AI.
+### 🐝 [BeeWeave](https://github.com/ptonlix/beeweave)
 
-- 🔥 Change the world, even a little bit.
+> `LATEST PERSONAL PROJECT` · Agent-native creation workbench
 
-## 🔧 Technologies & Tools
+BeeWeave 是一个面向创作者与 AI Agent 的创作工作台。它把素材收集、Agent
+辅助创作、知识沉淀和上下文复用连接成持续运转的创作数据飞轮。
 
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=6aa6f8)  
-![](https://img.shields.io/badge/AI-LangChain-informational?style=flat&logo=mysql&logoColor=white&color=987600)
-![](https://img.shields.io/badge/DataBase-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=ff9300)
-![](https://img.shields.io/badge/DataBase-Redis-informational?style=flat&logo=redis&logoColor=white&color=ff9300)
-![](https://img.shields.io/badge/MQ-MQTT-informational?style=flat&logo=mqtt&logoColor=white&color=fffb0d)
-![](https://img.shields.io/badge/MQ-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=fffb0d)  
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0099CC)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=0099CC)  
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=33CC33)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=33CC33)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=33CC33)
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/beeweave-flow-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/beeweave-flow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/beeweave-flow-light.svg">
+  <img width="100%" alt="BeeWeave 创作数据飞轮：收集、创作、沉淀、复用" src="./assets/beeweave-flow-light.svg">
+</picture>
 
-## 🌟 ALL IN AI
+- `workbench/` 管理素材、捕获内容与创作草稿。
+- `vault/` 沉淀可搜索、可连接、可复用的 Markdown 知识。
+- Codex、Claude Code、Cursor、Gemini 等 Agent 共享同一份长期上下文。
+- `beeweave-ingest`、`beeweave-query`、`beeweave-update` 让知识跨项目流动。
 
-### 🌟🌟🌟 Latest Research
+```bash
+pip install beeweave
+bwe setup
+```
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop)](https://github.com/ptonlix/gohumanloop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop-examples)](https://github.com/ptonlix/gohumanloop-examples)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloophub)](https://github.com/ptonlix/gohumanloophub)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop-wework)](https://github.com/ptonlix/gohumanloop-wework)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=gohumanloop-feishu)](https://github.com/ptonlix/gohumanloop-feishu)
+[Repository](https://github.com/ptonlix/beeweave) ·
+[Documentation](https://ptonlix.github.io/beeweave/) ·
+[中文文档](https://ptonlix.github.io/beeweave/zh/)
 
-### Past Projects
+### ✨ [即应 / MagicChat](https://github.com/chaitin/MagicChat)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=LangChain-Emoji)](https://github.com/ptonlix/LangChain-Emoji)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=LangChain-SearXNG)](https://github.com/ptonlix/LangChain-SearXNG)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=ssprompt)](https://github.com/ptonlix/ssprompt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=spokenai)](https://github.com/ptonlix/spokenai)
+> `LATEST COMPANY OPEN SOURCE` · 长亭科技 · 核心开发者
 
-## 🛠️ Top Repositories
+即应（MagicChat）是一个面向企业团队的 AI 原生工作入口，内置个人 AI
+助理“茉莉”。我作为核心开发者，持续参与这个项目的产品与工程建设。
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=MQTTWithTLS)](https://github.com/ptonlix/MQTTWithTLS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=officialaccount-chatgpt)](https://github.com/ptonlix/officialaccount-chatgpt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=community-online)](https://github.com/ptonlix/community-online)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptonlix&repo=PromptHub)](https://github.com/ptonlix/PromptHub)
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/magicchat-flow-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/magicchat-flow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/magicchat-flow-light.svg">
+  <img width="100%" alt="MagicChat 企业 Agent 总线：请求、茉莉、上下文、任务与人工控制" src="./assets/magicchat-flow-light.svg">
+</picture>
 
-## 📺 Self-media
+- 理解消息和工作请求，整理分散的上下文。
+- 提取、分流和跟进任务，减少重复的信息处理。
+- 让人、Agent、任务与执行记录在同一个工作空间协同。
+- 通过清晰的权限边界，让敏感操作和重要决策始终由人控制。
 
-### 🌍 个人微信/Wechat
+[Repository](https://github.com/chaitin/MagicChat)
 
-> 在科技爆炸的时代，尽绵薄之力，留下一点自己的踪迹
+## `$ systemctl --user --type=service`
 
-<img height=240 src="http://cdn.oyster-iot.cloud/202505231802103.png"/>
+- 🟢 **[GoHumanLoop](https://github.com/ptonlix/gohumanloop)**
+  `active`：面向可靠 AI Agent 的 Human-in-the-loop 基础设施。
+- 🟢 **[LangChain-SearXNG](https://github.com/ptonlix/LangChain-SearXNG)**
+  `active`：基于 LangChain 和 SearXNG 的开源 AI 问答搜索引擎。
+- 🟡 **[WhaleHire](https://github.com/ptonlix/WhaleHire)**
+  `product`：AI 驱动的招聘工作流实践。
+- 🟡 **[EEnhance](https://github.com/ptonlix/EEnhance)**
+  `research`：基于 LangGraph 的研究报告播客生成 Agent。
 
-### 💯 GoHumanLoop
+GoHumanLoop ecosystem：
+[Examples](https://github.com/ptonlix/gohumanloop-examples) ·
+[Service Hub](https://github.com/ptonlix/gohumanloophub) ·
+[Feishu](https://github.com/ptonlix/gohumanloop-feishu) ·
+[WeWork](https://github.com/ptonlix/gohumanloop-wework)
 
-**GoHumanLoop**: A Python library empowering AI agents to dynamically request human input (approval/feedback/conversation) at critical stages. Core features:
+<details>
+  <summary><strong><code>$ ls ~/open-source/archive</code></strong></summary>
+  <br>
 
-- `Human-in-the-loop control`: Lets AI agent systems pause and escalate decisions, enhancing safety and trust.
-- `Multi-channel integration`: Supports Terminal, Email, API, and frameworks like LangGraph/CrewAI (soon).
-- `Flexible workflows`: Combines automated reasoning with human oversight for reliable AI operations.
+- [LangChain-Emoji](https://github.com/ptonlix/LangChain-Emoji)：基于 LangChain
+  的表情包对话 Agent。
+- [ssprompt](https://github.com/ptonlix/ssprompt)：面向大模型 Prompt 的分发工具。
+- [PromptHub](https://github.com/ptonlix/PromptHub)：ssprompt 的默认 Prompt Hub。
+- [NetDog](https://github.com/ptonlix/netdog)：一站式网络设备监测工具。
 
-Ensures responsible AI deployment by bridging autonomous agents and human judgment.
+</details>
 
-### 🚀 帝阅 DeepRead - 自研 AI 产品
+## `$ env | sort`
 
-> 「帝阅」
-> 是一款个人专属知识管理与创造的 AI Native 产品
-> 为用户打造一位专属的侍读助理，帮助提升用户获取知识效率和发挥创造力
-> 让用户更好地去积累知识、管理知识、运用知识
+```text
+AI="Agents · Human-in-the-loop · LangGraph · Knowledge Workflows"
+LANGUAGES="Python · Go · TypeScript"
+RUNTIME="Docker · Linux · GitHub Actions"
+STATUS="Building systems where humans and agents get work done"
+```
 
-**产品官网:** https://dread.run
+## `$ contact --all`
 
-**产品公众号:**
+- GitHub：[ptonlix](https://github.com/ptonlix)
+- X / Twitter：[@Baird_cfd](https://x.com/Baird_cfd)
+- 知乎：[CyberFD](https://www.zhihu.com/people/baird-66)
+- Email：[baird0917@163.com](mailto:baird0917@163.com)
 
-<img height=240 src="http://cdn.oyster-iot.cloud/qrcode_for_gh_8c3852985a60_430.jpg"/>
+<p align="center">
+  <strong><code>$ contact --wechat</code></strong>
+  <br><br>
+  <img src="./assets/wechat-qr.png" width="222" alt="Baird / ptonlix 的个人微信二维码">
+  <br>
+  <sub>微信扫码添加 · 请备注「GitHub」</sub>
+</p>
 
-## ⚡ Recent Activity
+---
 
-- [x] 完成 GoHumanLoop 项目测试版本发布 🎉
-- [x] 完成 GoHumanLoop 支持企业微信、飞书等审批流接入
-- [ ] GoHumanLoop 产品持续迭代 🔁
-- [x] 完成帝阅 DeepRead 产品第一个版本发布 🎉
-- [ ] 帝阅 DeepRead 产品持续迭代 🔁
-- [x] 搭建 AI 搜索引擎 LangChain-SearXNG 初步框架，完善基本功能
-- [x] 搭建 AI 搜索引擎 LangChain-Emoji 初步框架，完善基本功能
-- [x] 建立 帝阅开发社区
-
-## 📊 Github Stats
-
-![Ptonlix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptonlix)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptonlix&layout=compact&hide=tcl,html)
-
-## 🎮 More
-
-- 💻 PC/Mac:
-
-  - M4 Pro 14 寸 24G+512G
-  - i7-10700 32G RTX2070S 1024SSD Win10
-
-- 📱 phone/iPhone:
-
-  - iphone14 pro max
-
-- 📷 Camera:
-  - Cannon EOS 90D
+<p align="center">
+  <code>CONTROL PLANE READY · BUILD WITH HUMANS · SHIP THINGS THAT WORK</code>
+</p>
