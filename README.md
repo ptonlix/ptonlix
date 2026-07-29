@@ -81,7 +81,7 @@ bwe setup
   `active`：面向可靠 AI Agent 的 Human-in-the-loop 基础设施。
 - 🟢 **[LangChain-SearXNG](https://github.com/ptonlix/LangChain-SearXNG)**
   `active`：基于 LangChain 和 SearXNG 的开源 AI 问答搜索引擎。
-- 🟡 **[WhaleHire](https://github.com/ptonlix/WhaleHire)**
+- 🟡 **[WhaleHire](https://baizhi.cloud/landing/whalehire)**
   `product`：AI 驱动的招聘工作流实践。
 - 🟡 **[EEnhance](https://github.com/ptonlix/EEnhance)**
   `research`：基于 LangGraph 的研究报告播客生成 Agent。
@@ -132,4 +132,8 @@ STATUS="Building systems where humans and agents get work done"
 
 <p align="center">
   <code>CONTROL PLANE READY · BUILD WITH HUMANS · SHIP THINGS THAT WORK</code>
+</p>
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ptonlix" alt="Profile views">
 </p>
