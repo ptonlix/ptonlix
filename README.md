@@ -2,7 +2,7 @@
   <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img width="100%" alt="Ptonlix Agent Control Plane：Baird 的身份、使命与活跃 AI 项目" src="./assets/hero-light.svg">
+  <img width="100%" alt="CyberFD Agent Control Plane：陈富东的身份、使命与活跃 AI 项目" src="./assets/hero-light.svg">
 </picture>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## `$ whoami`
 
-我是 **Baird / ptonlix**，一名 AI 产品经理、开发者与创业者。
+我是 **陈富东 / CyberFD**，一名 AI 产品经理、开发者与创业者。
 
 - 构建真正进入工作流、能够与人协作的 AI 产品。
 - 关注 Agent 原生应用、个人知识系统和企业级 AI 协作。
@@ -124,7 +124,7 @@ STATUS="Building systems where humans and agents get work done"
 <p align="center">
   <strong><code>$ contact --wechat</code></strong>
   <br><br>
-  <img src="./assets/wechat-qr.png" width="222" alt="Baird / ptonlix 的个人微信二维码">
+  <img src="./assets/wechat-qr.png" width="222" alt="陈富东 / CyberFD 的个人微信二维码">
   <br>
   <sub>微信扫码添加 · 请备注「GitHub」</sub>
 </p>
