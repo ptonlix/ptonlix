@@ -77,12 +77,13 @@ bwe setup
 
 ## `$ systemctl --user --type=service`
 
+- 🟢 **[WhaleHire](https://baizhi.cloud/landing/whalehire)**
+  `active`：AI 智能招聘引擎，通过简历解析、岗位画像和多维人岗匹配，
+  提升从人才筛选到面试决策的招聘效率。
 - 🟢 **[GoHumanLoop](https://github.com/ptonlix/gohumanloop)**
   `active`：面向可靠 AI Agent 的 Human-in-the-loop 基础设施。
 - 🟢 **[LangChain-SearXNG](https://github.com/ptonlix/LangChain-SearXNG)**
   `active`：基于 LangChain 和 SearXNG 的开源 AI 问答搜索引擎。
-- 🟡 **[WhaleHire](https://baizhi.cloud/landing/whalehire)**
-  `product`：AI 驱动的招聘工作流实践。
 - 🟡 **[EEnhance](https://github.com/ptonlix/EEnhance)**
   `research`：基于 LangGraph 的研究报告播客生成 Agent。
 
